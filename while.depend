@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1648976545 source:c:\users\cp24\documents\visual studio 2019\while\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<time.h>
+	<stdio.h>
+
